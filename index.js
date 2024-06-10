@@ -4,7 +4,7 @@ const { PORT } = process.env;
 //Lancer l'application
 const startApp = () => {
   app.listen(PORT, () => {
-    console.log(`Backend running on port ${PORT}`);
+    console.log(`Server listening on port ${PORT} ...`);
   });
 };
 
