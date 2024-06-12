@@ -1,7 +1,3 @@
-# mari-ankh
-
-medical web app
-
 # API Routes Documentation
 
 ## API BASE URL = https://meri-ankh.onrender.com/
